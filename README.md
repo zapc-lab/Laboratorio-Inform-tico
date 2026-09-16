@@ -1,6 +1,6 @@
-# 👨‍💻 Analista en Sistemas | Especialista en Infraestructura & TI
+#  Analista en Sistemas | Especialista en Infraestructura & TI
 
-¡Hola! Soy **Analista en Sistemas** con un perfil técnico-profesional enfocado en la gestión, optimización y mantenimiento de infraestructura tecnológica. Cuento con experiencia práctica en la administración de redes, monitoreo de sistemas con Zabbix, soporte técnico avanzado y desarrollo de software.
+Hola, soy **Analista en Sistemas** con un perfil técnico-profesional enfocado en la gestión, optimización y mantenimiento de infraestructura tecnológica. Cuento con experiencia práctica en la administración de redes, monitoreo de sistemas con Zabbix, soporte técnico avanzado y desarrollo de software.
 
 ---
 
@@ -18,9 +18,10 @@
 
 | Área | Herramientas / Tecnologías |
 | :--- | :--- |
-| **Monitoreo & Redes** | Zabbix, TCP/IP, Routers & Switches, VLANs, Firewalls |
-| **Desarrollo** | Python, JavaScript, SQL, Bash / Shell Scripting |
-| **Sistemas & TI** | Windows Server, Linux, Virtualización, Mantenimiento Técnico |
+| **Monitoreo & Redes** | Zabbix, TCP/IP, Routers & Switches, VLANs, Firewalls, ProxMox |
+| **Desarrollo** | Python, JavaScript, SQL,|
+| **Sistemas & TI** | Windows Server, Linux, Virtualización, Mantenimiento Técnico, Impresoras |
+| **Seguridad & CCTV** | Cámaras IP, DVR, NVR, Cableados  |
 
 ---
 
