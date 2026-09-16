@@ -24,4 +24,4 @@
 
 ---
 
-📫 **Contacto:** [Tu Correo] | [Tu LinkedIn]
+📫 **Contacto:** zapc229@gmail.com
